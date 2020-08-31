@@ -1,0 +1,7 @@
+Steps to run project:
+
+1) Open project in IDE (eclipse)
+2) Run TestNG.xml file
+3) Navigate to test-output > report > test (open ExtentReport.html in browser)
+
+Note: Since api and ui values are different testcase will fail
